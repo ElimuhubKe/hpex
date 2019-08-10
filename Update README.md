@@ -1,4 +1,4 @@
-# **H**ab**P**anel **Ex**tension
+#elimuhub **H**ab**P**anel **Ex**tension
 Extending the functionality of HabPanel
 
 ![](https://community-openhab-org.s3.dualstack.eu-central-1.amazonaws.com/original/3X/1/a/1afde63178322cd7104e9b6b440d1c11afa7e1db.png)
